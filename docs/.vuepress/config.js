@@ -41,6 +41,10 @@ module.exports = {
       clientSecret: '3bfa42b1768d3e032f735e8e4a1be2f062ba1013',
       autoCreateIssue: true
     },
+    '@vuepress/back-to-top': true,
+    '@vuepress/google-analytics': {
+      'ga': 'G-S1KBR054QM'
+    }
   },
   themeConfig: {
     lastUpdated: '更新时间',
