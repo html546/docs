@@ -4,6 +4,7 @@ moment.locale('zh-cn');
 
 
 module.exports = {
+  base: "/docs/",
   title: "飞跃高山与大洋的鱼12344",
   description: "飞跃高山与大洋的鱼的笔记,第二次",
   head: [
