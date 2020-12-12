@@ -39,6 +39,7 @@ module.exports = {
       repo: 'docs',
       clientId: 'c74bee7d94f21a063aba',
       clientSecret: '3bfa42b1768d3e032f735e8e4a1be2f062ba1013',
+      autoCreateIssue: true
     },
   },
   themeConfig: {
