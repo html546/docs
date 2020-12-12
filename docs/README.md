@@ -21,6 +21,8 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
 
 为了演示 PWA弹窗效果的内容
 
-需要注意在本地安装 vuepress yarn add -D vuepress!!！
+需要注意在本地安装 vuepress yarn add -D vuepress !!!
+
+123123123
 
 测试更新123
