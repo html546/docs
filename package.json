@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/html546/docs#readme",
   "dependencies": {
+    "@vssue/api-github-v4": "^1.4.0",
+    "@vssue/vuepress-plugin-vssue": "^1.4.6",
     "moment": "^2.29.1"
   },
   "devDependencies": {
