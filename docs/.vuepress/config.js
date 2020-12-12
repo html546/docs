@@ -1,5 +1,10 @@
 module.exports = {
   title: "飞跃高山与大洋的鱼",
+  description: "飞跃高山与大洋的鱼的笔记,第二次",
+  head: [
+    ['meta', { name: 'author', content: '飞跃高山与大洋的鱼' }],
+    ['meta', { name: 'keywords', content: 'vuepress介绍,vuepress说明,飞跃高山与大洋的鱼' }]
+  ],
   themeConfig: {
     logo: '/assets/img/hero.png',
     nav: [
