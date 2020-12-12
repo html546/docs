@@ -1,4 +1,5 @@
 module.exports = {
+  title: "飞跃高山与大洋的鱼",
   themeConfig: {
     logo: '/assets/img/hero.png',
     nav: [
