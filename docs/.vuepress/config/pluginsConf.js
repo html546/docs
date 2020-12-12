@@ -26,7 +26,7 @@ module.exports = {
     autoCreateIssue: true
   },
   '@vuepress/back-to-top': true,
-  '@vuepress/google-analytics': {
+  /* '@vuepress/google-analytics': {
     'ga': secret.ga
-  }
+  } */
 }
