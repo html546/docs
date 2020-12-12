@@ -1,5 +1,5 @@
 module.exports = {
-  title: "飞跃高山与大洋的鱼",
+  title: "飞跃高山与大洋的鱼123",
   description: "飞跃高山与大洋的鱼的笔记,第二次",
   head: [
     ['meta', { name: 'author', content: '飞跃高山与大洋的鱼' }],
