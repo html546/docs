@@ -43,7 +43,7 @@ module.exports = {
     },
     '@vuepress/back-to-top': true,
     '@vuepress/google-analytics': {
-      'ga': 'G-S1KBR054QM'
+      'ga': 'G-VLG3R720W0'
     }
   },
   themeConfig: {
