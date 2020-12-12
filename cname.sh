@@ -4,4 +4,4 @@
 
 set -e
 
-echo 'https://html546.github.io' > docs/.vuepress/dist/CNAME
+echo 'https://html546.github.io/docs' > docs/.vuepress/dist/CNAME
