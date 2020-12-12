@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/html546/docs/issues"
   },
-  "homepage": "https://github.com/html546/docs#readme"
+  "homepage": "https://github.com/html546/docs#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
